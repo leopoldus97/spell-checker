@@ -1,4 +1,4 @@
-# Code Challenge: `Spell Checker`
+# Coding Challenge: `Spell Checker`
 
 This application was created as part of a coding challenge. The challenge details can be found [here](https://codingchallenges.fyi/challenges/challenge-bloom).
 
