@@ -16,7 +16,7 @@ The Spell Checker application is designed to compare each word in the given text
 
 To run the Spell Checker application, follow these steps:
 
-1. Clone the repository from [placeholder-url].
+1. Clone the repository.
 2. Run the application using the command `cargo build --release`. This will generate the executable file in the `target/release` directory called `spell-checker`.
 3. Generate the dictionary file by running the application with the following argument `--build <path-to-word-file>`. For example, `./spell-checker --build /usr/share/dict/words`.
 4. Run the application file and provide the text you want as argument to check for spelling errors.
