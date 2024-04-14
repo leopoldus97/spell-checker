@@ -5,8 +5,8 @@ This application was created as part of a coding challenge. The challenge detail
 The following resources were used for implementing and understanding the functionality of Bloom Filters and MurmurHash:
 
 - [Geeks For Geeks tutorial](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
-- [Bloom Filter Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
-- [MurmurHash Wikipedia](https://en.wikipedia.org/wiki/MurmurHash)
+- [Wikipedia - Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- [Wikipedia - MurmurHash](https://en.wikipedia.org/wiki/MurmurHash)
 
 ## Description
 
